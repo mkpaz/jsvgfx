@@ -12,3 +12,7 @@ JAVA_HOME=/path/to/jdk/24
 
 ./mvnw javafx:run
 ```
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mkpaz/jsvgfx/master/.screenshots/readme.png" alt=""/>
+</p>
