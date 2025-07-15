@@ -19,12 +19,12 @@ public class SVGImageReaderSpi extends ImageReaderSpi {
 
     public SVGImageReaderSpi() {
         super(
-            "me.decorations",
+            "jsvgfx",
             "1.0",
             FORMAT_NAMES,
             EXTENSIONS,
             MIME_TYPES,
-            "me.decorations.SVGImageReader",
+            "jsvgfx.SVGImageReader",
             new Class<?>[]{ImageInputStream.class},
             null,
             false,
